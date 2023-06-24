@@ -1,0 +1,5 @@
+In this program, we first define a `Details` union structure that can store either an integer `age` or a string `DOB` depending on which one is intended to be used. Then, we define an `Employee` structure that contains a name, ID, salary, and the `Details` union type. 
+
+We then create two instances of the `Employee` structure and set their respective properties using the dot notation for member access. Finally, we print out the information using `printf` statements that access the members using the same dot notation. 
+
+This program demonstrates how you can use the `typedef`, `struct`, and `union` keywords in C to create custom data types that are more expressive and readable.
