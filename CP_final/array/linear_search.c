@@ -1,0 +1,1 @@
+https://github.com/PratikDev/assignments/blob/main/linear-search.c
